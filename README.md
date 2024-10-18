@@ -17,31 +17,31 @@
         </figure>
         <p>Thank you for participating in my first try to create some content online, on which my fashion inspo for 2024 will be all about my favorite colors and designers.</p>
         <p>We will break down some of my favorite designers and luxury brands.</p>
-            <li>Chanel - <a href="https://www.chanel.com/gr/" target="_blank">Official site</a></li>
-         <li>Color Black, like the Little Black Dress.<figure><img src="littleblackdress.jfif" width="200" height="250" alt="chanel first little black dress design"></figure</li>
-        <li>Alexander McQueen - <a href="https://www.alexandermcqueen.com/en-gr" target="_blank">Official site</a></li>
-        <li>Christian Dior - <a href="https://www.dior.com/en_gr?msockid=19ff41598dc262e6031855db8c026344" target="_blank">Official site</a></li>
-        <li>Color Bordeaux and palette, deep like the wine.
+<li>Chanel - <a href="https://www.chanel.com/gr/" target="_blank">Official site</a></li>
+<li>Color Black, like the Little Black Dress.<figure><img src="littleblackdress.jfif" width="200" height="250" alt="chanel first little black dress design"></figure</li>
+<li>Alexander McQueen - <a href="https://www.alexandermcqueen.com/en-gr" target="_blank">Official site</a></li>
+<li>Christian Dior - <a href="https://www.dior.com/en_gr?msockid=19ff41598dc262e6031855db8c026344" target="_blank">Official site</a></li>
+<li>Color Bordeaux and palette, deep like the wine.
             <figure><img src="bordopallete.png" width="200" height="150" alt="bordo palette colors">
         <img src="bordoonly.jpg" width="200" height="150" alt="bordo only color"></figure></li>
-        <li>Fendi - <a href="https://www.fendi.com/gr-en/" target="_blank">Official site</a></li>
-        <li>Versace - <a href="https://www.versace.com/us/en/" target="_blank">Official site</a></li>
-        <li>Color Gold and Gold jewellery.
-        <figure><img src="goldcoloronly.jfif" width="200" height="150" alt="only gold color display">
+<li>Fendi - <a href="https://www.fendi.com/gr-en/" target="_blank">Official site</a></li>
+<li>Versace - <a href="https://www.versace.com/us/en/" target="_blank">Official site</a></li>
+<li>Color Gold and Gold jewellery.
+<figure><img src="goldcoloronly.jfif" width="200" height="150" alt="only gold color display">
                 <img src="goldjewellery.jpg" width="200" height="150" alt="set of many gold jewellery">
                 </figure></li>
-        <li>Ralph Lauren - <a href="https://www.ralphlauren.eu/gr/en/women/clothing/2020" target="_blank">Official site</a></li>
-        <li>Miu Miu - <a href="https://www.miumiu.com/ww/en.html" target="_blank">Official site</a></li>
-        <li>Schiaparelli - <a href="https://www.schiaparelli.com/en" target="_blank">Official site</a></li>
-        <li>Color Mocha, great for nails.<figure>
+<li>Ralph Lauren - <a href="https://www.ralphlauren.eu/gr/en/women/clothing/2020" target="_blank">Official site</a></li>
+<li>Miu Miu - <a href="https://www.miumiu.com/ww/en.html" target="_blank">Official site</a></li>
+<li>Schiaparelli - <a href="https://www.schiaparelli.com/en" target="_blank">Official site</a></li>
+<li>Color Mocha, great for nails.<figure>
                     <img src="cherrymochanails2.jpg" width="200" height="200" alt="cherry mocha nails color on white hand">
                     <img src="mochanails1afro.jfif" width="200" height="200" alt="mocha nails color on afroamerican hand">
                 </figure></li>
-        <li>Pierre Cardin - <a href="https://www.cardinworld.com/" target="_blank">Official site</a></li>
-        <li>Color Navy Blue
+<li>Pierre Cardin - <a href="https://www.cardinworld.com/" target="_blank">Official site</a></li>
+<li>Color Navy Blue
                 <img src="navybluecoat1.jpg" width="400" height="500" alt="girl wearing a navy blue coat in town">
                 <img src="navybluesuit2.jpg" width="400" height="500" alt="man wearing a navy blue suit in town">
-                <li>Miuccia Prada through British Vogue top 12 styles - <a href="https://www.vogue.fr/fashion/article/vogue-looks-back-on-miucci-pradas-12-greatest-style-moments" target="_blank">Official British Vogue site</a>
+<li>Miuccia Prada through British Vogue top 12 styles - <a href="https://www.vogue.fr/fashion/article/vogue-looks-back-on-miucci-pradas-12-greatest-style-moments" target="_blank">Official British Vogue site</a>
              </main>
 <footer>Copyright Dimitra Kimouli</footer>
 </body>
