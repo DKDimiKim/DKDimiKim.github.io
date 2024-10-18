@@ -59,8 +59,7 @@
             </li>
             <li>Miuccia Prada through British Vogue top 12 styles - <a href="https://www.vogue.fr/fashion/article/vogue-looks-back-on-miucci-pradas-12-greatest-style-moments" target="_blank">Official British Vogue site</a></li>
         </ul>
-    </main>
-    <footer>Copyright Dimitra Kimouli</footer>
+</main> 
+<footer>Copyright Dimitra Kimouli</footer>
 </body>
-
 </html>
